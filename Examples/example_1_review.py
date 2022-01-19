@@ -8,7 +8,7 @@ if temp <= 0:
 elif temp >= 100:
     print("It’s boiling")
 else:
-    print("It's alright")
+    print("-It's alright-")
 
 
 # Lists
